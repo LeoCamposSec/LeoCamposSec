@@ -4,6 +4,9 @@
 Computer Engineering student at Universidad de Guadalajara (CUCEI), Mexico.
 I'm focused on **cybersecurity**: I want to understand how systems really work, from logic gates to the kernel, so I can find where they break.
 
+p align="left"
+img src="https://komarev.com/ghpvc/?username=LeoCamposSec" alt="profile views"
+p/
 ---
 
 - 4rd semester · expected graduation: 2029
