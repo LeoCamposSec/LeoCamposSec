@@ -4,6 +4,8 @@
 Computer Engineering student at Universidad de Guadalajara (CUCEI), Mexico.
 I'm focused on **cybersecurity**: I want to understand how systems really work, from logic gates to the kernel, so I can find where they break.
 
+---
+
 - 4rd semester · expected graduation: 2029
 - Currently learning: networking fundamentals, Linux internals and vulnerability research
 - Looking for: a part-time junior role in cybersecurity or IT (Guadalajara)
