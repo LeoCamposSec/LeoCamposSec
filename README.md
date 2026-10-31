@@ -33,7 +33,7 @@ C++ · Verilog · JavaScript · Linux · Docker · Git
 
 ## Contact
 
-[leo.campos.sec@gmail.com]
+leo.campos.sec@gmail.com
 
 <!--
 **LeoCamposSec/LeoCamposSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
